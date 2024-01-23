@@ -16,3 +16,12 @@
 .Posts input {
   border-radius: 10px;
 }
+
+.Posts div {
+  border-style: ridge;
+  border-width: 1.5px;
+}
+
+.Posts ul {
+  margin-left: -38px;
+}

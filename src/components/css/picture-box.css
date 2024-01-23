@@ -24,4 +24,6 @@ spill over into subling components. */
   font-weight: bold;
   margin-left: 10px;
   margin-right: 10px;
+  border-style: ridge;
+  border-width: 1px;
 }

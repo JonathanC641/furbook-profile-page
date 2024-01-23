@@ -1,14 +1,27 @@
 .About {
-  display: grid;
-  grid-template-rows: 1fr repeat(5, 0.5fr);
-  padding-left: 100px;
+  background-color: rgb(242, 237, 237);
+  border-radius: 10px;
+  width: 50%;
+  margin-left: 100px;
+}
+
+.About .BackColor {
+  margin: 10px;
+  border-radius: 5px;
   background-color: white;
+  border-style: ridge;
+  border-width: 1px;
 }
 
 .About .Header {
   text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
 }
-.About .Info {
-  font-size: 20px;
-  font-weight: bold;
+
+.Info {
+  font-weight: 700;
+  padding: 1rem;
+  border-style: ridge;
+  border-width: 1px;
 }

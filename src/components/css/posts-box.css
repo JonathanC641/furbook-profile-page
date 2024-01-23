@@ -1,6 +1,7 @@
 .Posts {
-  background-color: rgb(240, 239, 239);
+  background-color: rgb(246, 241, 241);
   border-radius: 5px;
+  width: 93%;
 }
 
 .Posts .Header {
@@ -9,8 +10,9 @@
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   margin-bottom: 10px;
+  font-size: 30px;
 }
 
-.Posts h2 {
-  font-size: 30px;
+.Posts input {
+  border-radius: 10px;
 }

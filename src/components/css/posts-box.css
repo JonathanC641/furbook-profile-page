@@ -2,3 +2,7 @@
   background-color: rgb(240, 239, 239);
   border-radius: 5px;
 }
+
+.Posts .Header {
+  background-color: blue;
+}
